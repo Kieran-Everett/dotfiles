@@ -1,0 +1,2 @@
+#!/bin/bash
+git $1 https://github.com/$2

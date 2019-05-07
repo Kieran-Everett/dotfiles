@@ -1,0 +1,2 @@
+#!/bin/bash
+youtube-dl -o $3"/%(title)s.%(ext)s" -f $2 https://youtu.be/$1

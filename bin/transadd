@@ -1,0 +1,4 @@
+#!/bin/bash
+
+pgrep -x transmission-da >/dev/null || (transmission-daemon && notify-send "Starting transmission deamon..." && sleep 3 && pkill -RTMIN+7 i3blocks)
+transmission-remote -a "$@" && notify-send "v Transmission-daemon" "Torrent added."

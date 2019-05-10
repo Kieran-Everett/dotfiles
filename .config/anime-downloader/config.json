@@ -1,0 +1,24 @@
+{
+    "dl": {
+        "download_dir": ".",
+        "external_downloader": "",
+        "fallback_qualities": [
+            "720p",
+            "480p",
+            "360p"
+        ],
+        "file_format": "{anime_title}/{anime_title}_{ep_no}",
+        "force_download": false,
+        "log_level": "INFO",
+        "player": null,
+        "provider": "9anime",
+        "quality": "720p",
+        "skip_download": false,
+        "url": false
+    },
+    "watch": {
+        "log_level": "INFO",
+        "provider": "9anime",
+        "quality": "720p"
+    }
+}

@@ -1,0 +1,39 @@
+[2019-05-07 18:11:20.204] [sharedprocess] [info] main {"machineId":"ed83193b7b07e9f6290db4a50670d754bebd9df8a578214fd60bb79f31da14e3"}
+[2019-05-07 18:11:20.370] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-07 18:11:20.856] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-07 18:11:24.765] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-07 18:11:24.770] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-07 18:11:25.056] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-07 18:11:25.065] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-07 18:11:28.636] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-07 18:11:39.525] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-07 18:11:39.828] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-07 18:11:40.347] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-05-07 18:11:40.361] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-07 18:11:43.881] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/59f4e99d-409c-48ef-a66e-13ab8c0553a1
+[2019-05-07 18:11:47.827] [sharedprocess] [info] Extracted extension to /home/kieran/.vscode/extensions/.ms-python.python-2019.4.12954: ms-python.python
+[2019-05-07 18:11:47.828] [sharedprocess] [info] Renamed to /home/kieran/.vscode/extensions/ms-python.python-2019.4.12954
+[2019-05-07 18:11:47.844] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-05-07 18:11:48.089] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2019-05-07 18:11:48.153] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-07 18:11:57.999] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-07 18:11:58.003] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-07 18:11:58.009] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-07 18:11:58.836] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-07 18:11:58.854] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-07 18:11:58.866] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-07 18:11:59.508] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-07 18:12:00.247] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-05-07 18:12:30.124] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-07 18:12:30.129] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-07 18:12:30.134] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-07 18:12:30.138] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-07 18:12:30.264] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-07 18:12:30.274] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-07 18:12:30.286] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-07 18:12:42.307] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-07 18:12:42.314] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-07 18:12:42.318] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-07 18:12:42.499] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-07 18:12:42.521] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-07 18:12:42.538] [sharedprocess] [info] Scanned system extensions: 72
